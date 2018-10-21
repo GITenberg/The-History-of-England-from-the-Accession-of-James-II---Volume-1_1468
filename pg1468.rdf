@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:cc="http://web.resource.org/cc/"
+>
+  <pgterms:ebook rdf:about="ebooks/1468">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1468/1468-8.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N92c87854a425440c9921970167a369b9">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-23T10:15:04</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1295e1dd01484829a35f036f14b93775">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515390</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nd5167bf88c2c4b4880c6101fbc64e4c9">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Great Britain -- History -- William and Mary, 1689-1702</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-06-26</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1468/1468.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf552e387f4c34201930a1e0bc3380249">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7c262b7e714d4eed8af02f9265afd865">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">515360</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-23T10:15:04</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1468.rdf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13927</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:01:07.622082</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N69ebba71a83d45e3aae9cbcf971edced">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1468/1468-h/1468-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-23T10:14:44</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1614858</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd85703e5231949cfb62406c8cb065d27">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1468/1468-8.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-23T10:14:42</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1382068</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc74ffeed2db94b99a9c21a6c74ebecbe">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1468.epub.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na53d3409cd2648c992239cf59b5ab2b8">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T03:18:09.352149</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559144</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N1bb6932e9c3f4c4bab04a8d21f0549b8">
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>United Kingdom</rdf:value>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1468.txt.utf-8">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1382048</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T03:18:08.142185</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N06d7aec5e491440295067d849cdd6754">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1468.epub.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T03:18:09.879141</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1dd9ddab08224b01bbef82e462890a1f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559144</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1468/1468.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1382066</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-23T10:14:44</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5aa64d40dded4763a7612114f3ab63a5">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/443">
+        <pgterms:alias>Macaulay, T. Babington (Thomas Babington)</pgterms:alias>
+        <pgterms:alias>Macaulay, Lord (Thomas Babington Macaulay)</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1800</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1859</pgterms:deathdate>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay"/>
+        <pgterms:name>Macaulay, Thomas Babington Macaulay, Baron</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/1468/1468-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N168bca36bbc248069cae1d0ef094ba55">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne5330f8f2b2648a6b91bbf3bacc8e68a">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-23T10:15:04</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">545563</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>The History of England, from the Accession of James II — Volume 1</dcterms:title>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Na4c6fbcb44984beab1895d0b0bed2b49">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1468.kindle.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc76494f3cb38426ab9bdf2071a968d2d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2359976</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T03:18:15.135046</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nde1a3aed07b84664b3ac1f802a7d7c11">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Great Britain -- History -- James II, 1685-1688</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nd75dfe54ee544aee85053cb81ca2aba8">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nab81c4535470426795d0aa2b02d16578">
+        <rdf:value>DA</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/1468.kindle.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2359968</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-01T03:18:20.407969</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/1468"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N93aa5942f4d548f0aff2df17632fc6f9">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</pgterms:downloads>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
